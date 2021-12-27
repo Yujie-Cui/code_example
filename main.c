@@ -1,14 +1,3 @@
-/*
-
-Covert channel using Algorithm 1 under Hyper-threaded sharing
-
-Usage: see README 
-Authors: Yujie Cui (YujieCui@pku.edu.cn) 
-
-
-*/
-
-
 
 #define _GNU_SOURCE
 #include <stdio.h>
